@@ -1,0 +1,7 @@
+data/
+node_modules/
+logs/
+*.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
